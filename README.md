@@ -98,5 +98,5 @@ Please check out the gallery for some examples, which show some visualisations o
 ## Summary
 
 This is a very brief overview of the code, designed to get some output.
-Please let me know if you want to use it for research purposes and I will be happy to help.
+Please let me know if you want to use it for research purposes and we will be happy to help.
 
